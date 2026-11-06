@@ -61,6 +61,7 @@ All expense data stays in your browser's `localStorage` — nothing is sent to a
 
 Works in any modern browser with support for `localStorage`, ES6+ JavaScript, and `crypto.randomUUID()` (with a fallback ID generator for older browsers).
 
-## License
+## 👤 Author
 
-No license specified — add one if you plan to share or distribute this project.
+**Hassan Ali**, BSc Computer Science (Year in Industry) student at the University of Kent<br/>
+[GitHub](https://github.com/Hassan6237) · [LinkedIn](https://www.linkedin.com/in/hassan623)
