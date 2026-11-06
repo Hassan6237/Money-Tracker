@@ -1,6 +1,8 @@
 # Ledger — Personal Expense Tracker
 
-A lightweight, single-page expense tracker built with vanilla JavaScript, HTML, and CSS. No build step, no framework — just open it in a browser. All data is stored locally in the browser via `localStorage`.
+**▶ Live demo: [hassan6237.github.io/Money-Tracker](https://hassan6237.github.io/Money-Tracker/)**
+
+A lightweight, single-page expense tracker built with vanilla JavaScript, HTML, and CSS. No build step, no framework — just open it in a browser. All data is stored locally in the browser via `localStorage`, so nothing you enter is sent to a server. User input is HTML-escaped before rendering to prevent XSS.
 
 ## Features
 
